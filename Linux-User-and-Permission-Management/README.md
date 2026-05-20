@@ -37,4 +37,8 @@ This lab improved my understanding of Linux filesystem interaction, file permiss
 TryHackMe - Linux Fundamentals 2
 
 ## Screenshots
-(Add screenshots here later)
+### Linux Filesystem Interaction
+<img width="588" height="641" alt="Linux-filesystem-interaction" src="https://github.com/user-attachments/assets/5f7ba0d6-ceaa-4e04-bf6c-a4cbcbcd7556" />
+
+### Linux File Permissions and Directories
+<img width="580" height="628" alt="linux-file-permissions-and-directories" src="https://github.com/user-attachments/assets/609a3412-cb8c-490a-af3c-71d522f6e7af" />
