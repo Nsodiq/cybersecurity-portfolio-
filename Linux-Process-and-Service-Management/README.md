@@ -50,4 +50,10 @@ This lab improved my understanding of Linux process monitoring, service manageme
 TryHackMe - Linux Fundamentals 3
 
 ## Screenshots
-(Add screenshots here later)
+### Process Monitoring Command and Service Management
+<img width="1425" height="772" alt="linux-process-monitoring-and-service-management" src="https://github.com/user-attachments/assets/b78be425-06de-4169-81fc-bbff598c57eb" />
+
+### Cron Scheduling
+<img width="576" height="637" alt="crontabs-running" src="https://github.com/user-attachments/assets/6b785302-d06f-4ca2-9284-0aa73b5047f8" />
+<img width="1122" height="624" alt="cron-scheduling-png" src="https://github.com/user-attachments/assets/e608ceb6-3874-4848-832f-609be463cfe1" />
+
