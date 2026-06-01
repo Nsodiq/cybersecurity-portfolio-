@@ -1,40 +1,50 @@
-# Linux Process and Service Management
+# Linux System Management and Utilities
 
 ## Objective
-Practice monitoring and managing Linux processes, services, and scheduled tasks using TryHackMe Linux Fundamentals 3.
+This lab focused on Linux system management, process monitoring, package management, scheduling tasks, and file transfer operations using TryHackMe Linux Fundamentals 3.
 
 ## Skills Learned
-- Process monitoring
-- Process management
-- Service management
-- Linux task scheduling
-- Background and foreground job control
-- Basic Linux administration
+- Linux process management 
+- Service and system management
+- Package management
+- Task scheduling
+- File transfer operations
+- Linux logging concepts
+- Terminal-based administration
 
 ## Commands Practiced
+### File Editing & Transfer 
+- nano
+- wget
+- scp
+- python3 -m http.server
+
+### Process Management  
 - ps
 - ps aux
-- top
-- kill
-- systemctl
 - fg
 
-## Linux Signals Learned
+### logging Concepts
+- access logs
+- error logs
+  
+## Concepts Introduced
+### Processes 
+- top
+- kill
+- ctrl + z
+  
+### Linux Signals 
 - SIGTERM
 - SIGKILL
 - SIGSTOP
 
-## Service Management Concepts
-Learned how Linux services and system initialization work using:
+### Service Management
 - systemd
 - systemctl
+- system's init
 
-## Job Control
-Practiced managing foreground and background jobs using:
-- Ctrl + Z
-- fg
-
-## Scheduled Tasks
+### Task Scheduling
 Learned basic cron scheduling concepts:
 - MIN
 - HOUR
@@ -43,8 +53,15 @@ Learned basic cron scheduling concepts:
 - DOW
 - CMD
 
+### Package Management 
+- apt
+- add-apt-repository
+- dpkg
+- GPG
+- apt remove
+
 ## What I Learned
-This lab improved my understanding of Linux process monitoring, service management, and task scheduling concepts commonly used in Linux administration and cybersecurity environments.
+This lab improved my understanding of Linux system administration, process  monitoring, package management, task scheduling, and log management concepts commonly used in cybersecurity and IT operations.
 
 ## Platform
 TryHackMe - Linux Fundamentals 3
